@@ -1,1 +1,1 @@
-# Welcome to my Data Analysis Self Project
+# Welcome to my data analysis self project
